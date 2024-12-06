@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from '../components/Header'
-import FeaturedWork from '../components/FeaturedWork'
+import Header from '../components/OurWorks/Header'
+import FeaturedWork from '../components/OurWorks/FeaturedWork'
 import BrandNote from '../components/BrandNote'
 import BrandLogo from '../components/BrandLogo'
 

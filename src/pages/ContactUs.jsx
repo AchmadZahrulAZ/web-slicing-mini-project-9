@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../components/Header'
-import ProposalForm from '../components/ProposalForm'
-import OurOffice from '../components/OurOffice'
-import NumberBanner from '../components/NumberBanner'
+import Header from '../components/ContactUs/Header'
+import ProposalForm from '../components/ContactUs/ProposalForm'
+import OurOffice from '../components/ContactUs/OurOffice'
+import NumberBanner from '../components/ContactUs/NumberBanner'
 import BrandNote from '../components/BrandNote'
 import BrandLogo from '../components/BrandLogo'
 

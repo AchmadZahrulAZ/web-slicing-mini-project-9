@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from '../components/Header'
-import Features from '../components/Features'
-import Work from '../components/Work'
-import Process from '../components/Process'
-import Clients from '../components/Clients'
+import Header from '../components/Homepage/Header'
+import Features from '../components/Homepage/Features'
+import Work from '../components/Homepage/Work'
+import Process from '../components/Homepage/Process'
+import Clients from '../components/Homepage/Clients'
 import BrandLogo from '../components/BrandLogo'
-import Blog from '../components/Blog'
+import Blog from '../components/Homepage/Blog'
 
 const Homepage = () => {
   return (

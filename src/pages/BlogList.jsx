@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from '../components/Header'
-import BlogPostCard from '../components/BlogPostCard'
-import ButtonLoadMore from '../components/ButtonLoadMore'
+import Header from '../components/BlogList/Header'
+import BlogPostCard from '../components/BlogList/BlogPostCard'
+import ButtonLoadMore from '../components/BlogList/ButtonLoadMore'
 
 const BlogList = () => {
   return (

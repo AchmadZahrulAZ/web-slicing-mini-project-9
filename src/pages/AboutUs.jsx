@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../components/Header'
-import WhoWeAre from '../components/WhoWeAre'
-import Team from '../components/Team'
-import NumberBanner from '../components/NumberBanner'
+import Header from '../components/AboutUs/Header'
+import WhoWeAre from '../components/AboutUs/WhoWeAre'
+import Team from '../components/AboutUs/Team'
+import NumberBanner from '../components/AboutUs/NumberBanner'
 import BrandNote from '../components/BrandNote'
 import BrandLogo from '../components/BrandLogo'
 
